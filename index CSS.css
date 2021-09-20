@@ -14,10 +14,10 @@ h3{color: white; font-family: 'Nanum Gothic Coding', monospace;  font-size: 20px
 
 .Footer{border: #31d61e solid 3px; background-image: url(Footer.jpg); margin-top: 450px; height: 216px; width: 1620px; border-radius: 10px; background-repeat: no-repeat;}
 
-a{color: black; font-family: 'Nanum Gothic Coding', monospace; font-size: 20px; text-decoration: none;}
+a{color: White; font-family: 'Nanum Gothic Coding', monospace; font-size: 30px;}
 
 .discord{margin-left: 500px;}
 
 iframe{margin-left: 1020px;  height: 537px; width: 600px; margin-top: 10px;}
 
-.IP{display: block; margin-right: 50px; text-shadow:2px 2px black; font-weight: bold; font-size: 25px; margin-top: 0px;}
+.IP{display: block;margin-right: 80px; text-shadow:2px 2px black; font-weight: bold; font-size: 25px; margin-top: 0px;}
